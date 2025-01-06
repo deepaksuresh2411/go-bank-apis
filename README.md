@@ -1,4 +1,4 @@
 # go-bank-apis
-Go practice projects
+Go practice project
 
 Bank related CRUD APIs
